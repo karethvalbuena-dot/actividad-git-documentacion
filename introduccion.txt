@@ -1,1 +1,2 @@
 Introduccion a git y github
+git permite controlar las versiones de los documentos.

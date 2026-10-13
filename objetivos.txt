@@ -1,1 +1,2 @@
 Aprender a crear y modificar archivos con git
+los commits registran los cambios realizados en el proyecto.

@@ -1,1 +1,2 @@
 Version1: creacion de los archivos iniciales
+version2: actualizacion de la introduccion y los objetos.
